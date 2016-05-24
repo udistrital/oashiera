@@ -1,3 +1,4 @@
-# Configuraciones especificas para la aplicación.
+# Configuraciones especificas para la aplicación oasforeman-installer en el ambiente de desarrollo
 ---
-config1: valor_config1
+oasforeman-installer::foreman_url: https://foreman1.oas.local
+oasforeman-installer::foreman_ip: 192.168.12.42
